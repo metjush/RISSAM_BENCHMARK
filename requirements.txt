@@ -1,0 +1,6 @@
+bs4
+xlrd
+pandas=1.2.5
+numpy 
+plotly
+openpyxl
